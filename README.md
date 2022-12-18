@@ -7,7 +7,7 @@ This repo contains output and code for internship flexmoney(Dec) 2022 Assignment
 
     front : contains frontend code made using React.js
 
-The website code is uploaded in the other domain.
+The website code is uploaded in the other platform (Netlify).
 Please find the attachment link for the live website :)
 
 # Live Website:-

@@ -1,8 +1,8 @@
 # flexmoney-assignment
 
-Hey There,
+Hey there,
 
-This repo contains code for internship@flexmoney 2022 Assignment
+This repo contains output and code for internship flexmoney(Dec) 2022 Assignment
 
 
     front : contains frontend code made using React.js

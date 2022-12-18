@@ -15,6 +15,7 @@ https://flexmoney-assignment-2022.netlify.app
 
 # By
 
-Name- Nihar Zutshi
-Linkedin:- https://www.linkedin.com/in/niharzutshi/
-Email:- niharzutshi12@yahoo.com
+- Name- Nihar Zutshi
+- Linkedin:- https://www.linkedin.com/in/niharzutshi/
+
+- Email:- niharzutshi12@yahoo.com
